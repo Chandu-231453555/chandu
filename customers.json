@@ -1,0 +1,104 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith@email.com",
+      "phone": "+1-555-123-4567",
+      "address": "123 Main St, New York, NY 10001",
+      "age": 35,
+      "membership_type": "Gold",
+      "joined_date": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "email": "sarah.j@email.com",
+      "phone": "+1-555-234-5678",
+      "address": "456 Oak Ave, Los Angeles, CA 90001",
+      "age": 28,
+      "membership_type": "Silver",
+      "joined_date": "2024-02-20"
+    },
+    {
+      "id": 3,
+      "name": "Michael Chen",
+      "email": "m.chen@email.com",
+      "phone": "+1-555-345-6789",
+      "address": "789 Pine Rd, Chicago, IL 60601",
+      "age": 42,
+      "membership_type": "Platinum",
+      "joined_date": "2023-12-10"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.d@email.com",
+      "phone": "+1-555-456-7890",
+      "address": "321 Elm St, Houston, TX 77001",
+      "age": 31,
+      "membership_type": "Gold",
+      "joined_date": "2024-03-05"
+    },
+    {
+      "id": 5,
+      "name": "Robert Wilson",
+      "email": "rob.wilson@email.com",
+      "phone": "+1-555-567-8901",
+      "address": "654 Maple Dr, Seattle, WA 98101",
+      "age": 45,
+      "membership_type": "Silver",
+      "joined_date": "2024-01-30"
+    },
+    {
+      "id": 6,
+      "name": "Lisa Brown",
+      "email": "lisa.b@email.com",
+      "phone": "+1-555-678-9012",
+      "address": "987 Cedar Ln, Miami, FL 33101",
+      "age": 29,
+      "membership_type": "Gold",
+      "joined_date": "2024-02-15"
+    },
+    {
+      "id": 7,
+      "name": "David Kim",
+      "email": "d.kim@email.com",
+      "phone": "+1-555-789-0123",
+      "address": "147 Birch St, Boston, MA 02101",
+      "age": 38,
+      "membership_type": "Platinum",
+      "joined_date": "2023-11-20"
+    },
+    {
+      "id": 8,
+      "name": "Maria Garcia",
+      "email": "maria.g@email.com",
+      "phone": "+1-555-890-1234",
+      "address": "258 Willow Ave, Phoenix, AZ 85001",
+      "age": 33,
+      "membership_type": "Silver",
+      "joined_date": "2024-03-10"
+    },
+    {
+      "id": 9,
+      "name": "James Taylor",
+      "email": "j.taylor@email.com",
+      "phone": "+1-555-901-2345",
+      "address": "369 Spruce Ct, Denver, CO 80201",
+      "age": 40,
+      "membership_type": "Gold",
+      "joined_date": "2024-01-05"
+    },
+    {
+      "id": 10,
+      "name": "Amanda White",
+      "email": "amanda.w@email.com",
+      "phone": "+1-555-012-3456",
+      "address": "741 Aspen Way, San Francisco, CA 94101",
+      "age": 36,
+      "membership_type": "Platinum",
+      "joined_date": "2023-12-25"
+    }
+  ]
+}
