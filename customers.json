@@ -2,7 +2,7 @@
   "customers": [
     {
       "id": 1,
-      "name": "John Smith",
+      "name": "Chandra Shekar",
       "email": "john.smith@email.com",
       "phone": "+1-555-123-4567",
       "address": "123 Main St, New York, NY 10001",
